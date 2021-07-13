@@ -1,5 +1,7 @@
 # Sudoku-solver
-This repository contains a small sudoku solving algorithm, which uses a home-cooked evolutionary algorithm 👨‍🍳
+This repository contains a small sudoku solving algorithm, which uses a home-cooked evolutionary algorithm 👨‍🍳.
+
+_Note: This is by no means a fast implementation. If you're looking for a something performant, check out [this implementation in Rust](https://github.com/LukasHedegaard/sudoku-solver-rust), which uses backtracking instead of evolution 🚀._
 
 ## Usage
 ```python
